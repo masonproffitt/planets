@@ -1,6 +1,2 @@
 Whatever text you want.
-Make
-it
-a
-few
-lines.
+Make it a few lines.
